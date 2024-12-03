@@ -84,5 +84,40 @@ The architecture of the system is designed for scalability and transparency:
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/your-repository/automobile-hyperledger-fabric.git
-cd automobile-hyperledger-fabric
+git clone the repository
+cd foldername
+```
+### **Step 2: Install Prerequisites
+Install Docker and Docker Compose for managing the Fabric network.
+Install Node.js and npm for backend services and smart contract interaction.
+
+### **Step 3: Start the Hyperledger Fabric Network
+In the fabric-network folder, start the Hyperledger Fabric network by running:
+```
+./startFabric.sh
+```
+### **Step 5: Run the Client Application
+Install dependencies and start the Node.js application:
+```
+npm i
+node aap.js for server side
+run npm dev for ui
+```
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Thank you for exploring the Automobile Use Case on Hyperledger Fabric! 🚗🔗
+Let's bring transparency, traceability, and security to the automobile industry!
+
+
+
+
+
+
+
+
+
+
+
+
