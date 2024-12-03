@@ -102,7 +102,7 @@ node aap.js for server side
 run npm dev for ui
 ```
 ## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE[LICENSE] file for details.
 
 
 Thank you for exploring the Automobile Use Case on Hyperledger Fabric! 🚗🔗
