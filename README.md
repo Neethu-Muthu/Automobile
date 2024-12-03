@@ -81,22 +81,22 @@ The architecture of the system is designed for scalability and transparency:
 
 ## 📝 **Setup Instructions**
 
-### **Step 1: Clone the Repository**
+### Step 1: Clone the Repository**
 
 ```bash
 git clone the repository
 cd foldername
 ```
-### **Step 2: Install Prerequisites
+### Step 2: Install Prerequisites
 Install Docker and Docker Compose for managing the Fabric network.
 Install Node.js and npm for backend services and smart contract interaction.
 
-### **Step 3: Start the Hyperledger Fabric Network
+### Step 3: Start the Hyperledger Fabric Network
 In the fabric-network folder, start the Hyperledger Fabric network by running:
 ```
 ./startFabric.sh
 ```
-### **Step 5: Run the Client Application
+### Step 5: Run the Client Application
 Install dependencies and start the Node.js application:
 ```
 npm i
