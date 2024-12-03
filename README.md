@@ -11,8 +11,6 @@ Welcome to the **Automobile Use Case on Hyperledger Fabric** project! This innov
 - [How It Works](#how-it-works)
 - [Architecture](#architecture)
 - [Setup Instructions](#setup-instructions)
-- [Deployment](#deployment)
-- [Usage](#usage)
 - [License](#license)
 
 ---
